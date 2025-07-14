@@ -24,7 +24,7 @@ I'm a dedicated developer with hands-on experience in building clean, responsive
 
 <h2>👨‍💻 Projects</h2>
 <ul>
-  <li><strong>Portfolio Website:</strong> <a href="#">View Here</a></li>
+  <li><strong>Portfolio Website:</strong> <a href="https://huzaima372.github.io/personal%20portfolio/">View Here</a></li>
   <li><strong>Linkdin Website Clone:</strong> <a href="https://huzaima372.github.io/linkdin/">View Here</a></li>
   <li><strong>Clickup Website Clone:</strong> <a href="https://huzaima372.github.io/clickup/">View Here</a></li>
   <li><strong>Badam Agency Website Clone:</strong> <a href="https://huzaima372.github.io/badamagency/">View Here</a></li>
