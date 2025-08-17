@@ -4,69 +4,86 @@
   <h1><strong>Huzaima Aneeq</strong> 👋</h1>
   <h3>🖥️ Frontend Developer | Aspiring AI Engineer | 🎓 Computer Science Student (3rd Year)</h3>
 </div>
-
 <p align="center">
-I'm a dedicated developer with hands-on experience in building clean, responsive, and scalable web applications using <strong>HTML, CSS, JavaScript</strong>, and <strong>Bootstrap</strong>. I also have a solid foundation in <strong>C++</strong>, <strong>OOP</strong>, and <strong>Data Structures</strong>. Currently diving into <strong>AI & Machine Learning</strong>, and seeking internship opportunities in the field.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0AA8F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Huzaima+Aneeq;AI+%26+ML+Enthusiast;Web+Developer;Always+curious+%26+learning!">
 </p>
 
-<hr>
+---
 
-<h2>🚀 Skills and Expertise</h2>
-<ul>
-  <li><strong>Frontend Development:</strong> HTML5, CSS3, JavaScript, Bootstrap</li>
-  <li><strong>Programming Languages:</strong> C++, JavaScript</li>
-  <li><strong>Computer Science Concepts:</strong> Object-Oriented Programming, Data Structures</li>
-  <li><strong>Development Focus:</strong> Clean, modular code and scalable UI</li>
-  <li><strong>Currently Exploring:</strong> Python for Machine Learning and AI</li>
-</ul>
+<p align="center">
+I'm a dedicated developer with hands-on experience in building clean, responsive, and scalable web applications using <strong>HTML, CSS, JavaScript</strong>, and <strong>Bootstrap</strong>.  
+I also have a solid foundation in <strong>C++</strong>, <strong>OOP</strong>, and <strong>Data Structures</strong>.  
+Currently diving deep into <strong>AI & Machine Learning</strong> with Python, while seeking exciting internship opportunities in this field 🚀.
+</p>
 
-<hr>
+---
 
-<h2>👨‍💻 Projects</h2>
-<ul>
-  <li><strong>Portfolio Website:</strong> <a href="https://huzaima372.github.io/personal%20portfolio/">View Here</a></li>
-  <li><strong>Linkdin Website Clone:</strong> <a href="https://huzaima372.github.io/linkdin/">View Here</a></li>
-  <li><strong>Clickup Website Clone:</strong> <a href="https://huzaima372.github.io/clickup/">View Here</a></li>
-  <li><strong>Badam Agency Website Clone:</strong> <a href="https://huzaima372.github.io/badamagency/">View Here</a></li>
-</ul>
-<!-- Replace # with actual links -->
+## 🚀 Skills and Expertise  
+- **Frontend Development:** HTML5, CSS3, JavaScript, Bootstrap  
+- **Programming Languages:** C++, Python, JavaScript  
+- **Core CS Concepts:** Object-Oriented Programming, Data Structures & Algorithms  
+- **Machine Learning:** Data Preprocessing, Regression, Classification, Model Evaluation  
+- **Development Focus:** Clean, modular, and scalable solutions  
 
-<hr>
+---
 
-<h2>🌟 Interests</h2>
-<ul>
-  <li>Keeping up with the latest tech and AI research</li>
-  <li>Collaborating on open-source and university projects</li>
-  <li>Building and experimenting with new technologies</li>
-  <li>Exploring practical AI and ML applications</li>
-</ul>
+## 👨‍💻 Projects  
 
-<hr>
+### 🌐 Web Development  
+- **Portfolio Website:** [View Here](https://huzaima372.github.io/personal%20portfolio/)  
+- **LinkedIn Website Clone:** [View Here](https://huzaima372.github.io/linkdin/)  
+- **Clickup Website Clone:** [View Here](https://huzaima372.github.io/clickup/)  
+- **Badam Agency Website Clone:** [View Here](https://huzaima372.github.io/badamagency/)  
 
-<h2>📫 Let's Connect</h2>
-<ul>
-<!--   <li><strong>GitHub:</strong> <a href="https://github.com/HussainAnjan5">github.com/HussainAnjan5</a></li>
-  <li><strong>LinkedIn:</strong> <a href="#">Your LinkedIn</a></li> -->
-  <li><strong>Email:</strong> huzaimaaneeq335@gmail.com</li>
-</ul>
-<!-- Replace placeholders with your actual info -->
+### 🤖 Machine Learning Projects  
+- **🏠 House Price Prediction** – Linear Regression model to predict housing prices  
+- **📘 Marks Prediction** – Predicts student marks based on study hours  
+- **📘 Pakistan Students Marks Prediction** – Predicts final exam marks from study hours & midterm scores  
+- **🩺 Diabetes Prediction** – SVM model to detect diabetes risk  
+- **❤️ Heart Disease Prediction** – Logistic Regression model to classify heart disease patients  
 
-<hr>
+---
+
+## 🌟 Interests  
+- Following the latest trends in **AI & Machine Learning research**  
+- Building real-world **ML and Data Science projects**  
+- Exploring **AI applications in healthcare & education**  
+- Collaborating on **open-source & university projects**  
+
+---
+
+## 📫 Let's Connect  
+- **Email:** huzaimaaneeq335@gmail.com  
+- **Twitter:** [@huzaim_04](https://twitter.com/huzaim_04)  
+- **Facebook:** [Huzaima Aneeq](https://fb.com/huzaima.aneeq)  
+- **Instagram:** [@huzaim06](https://instagram.com/huzaim06)  
+- **YouTube:** [Huzaima Aneeq](https://www.youtube.com/c/huzaima%20aneeq)  
+
+---
+
+## 🛠️ Languages & Tools  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huzaima372&show_icons=true&theme=radical" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaima372&layout=compact&theme=radical" alt="languages" height="180"/>
+</p>
+
+---
 
 <p align="center"><em>“Always curious. Always building.” 🚀</em></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/huzaim_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="huzaim_04" height="40" width="50" /></a>
-<a href="https://fb.com/huzaima aneeq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="huzaima aneeq" height="40" width="50" /></a>
-<a href="https://instagram.com/huzaim06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="huzaim06" height="40" width="50" /></a>
-<a href="https://www.youtube.com/c/huzaima aneeq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="huzaima aneeq" height="40" width="50" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaima372&show_icons=true&locale=en&layout=compact" alt="huzaima372" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaima372&show_icons=true&locale=en" alt="huzaima372" /></p>
 
